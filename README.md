@@ -20,10 +20,11 @@ Barebones guide:
 2. (Optional if your dampeners are already worn out.  Skip to step 4.) Remove dampener and plastic support pieces.  More detail is available in Gamo2's manual https://www.gamo2.com/en/download/Faucetwo_manual_en_20210106.pdf .
 3. Reassemble the knob assembly without the dampener and plastic support pieces, but don't put on the spoked wheel yet.
 4. Line up the spoked wheel on the end of the shaft, then sandwich it with Part1.  Screw in the 2 M3 screws.
-5. Unscrew the two screws holding down the two light sensors in place, leaving the middle screw alone.
-6. Put the screws into Part2 and line it up on top of the boards and screw it in.
-7. Repeat with the second knob assembly.
-8. Put the cover back on.  You're done!
+5. Insert the torque limiter into Part1, lining up the tabs with the slots.  It should be a fairly tight press fit.  If your tabs aren't aligned, the torque limiter will be too tall.  You can pinch the torque limiter and rotate it while it's in Part1 to adjust.
+6. Unscrew the two screws holding down the two light sensors in place, leaving the middle screw alone.
+7. Put the screws into Part2 and line it up on top of the boards and screw it in.  Make sure to align the torque limiter slot with Part2.
+8. Repeat with the second knob assembly.
+9. Put the cover back on.  You're done!
 
 ## Pick up a kit or individual torque limiters here:  
 https://www.speedylabs.us/product/faucetwo-torque-limiter-upgrade-kit/  
