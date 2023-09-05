@@ -5,10 +5,15 @@ Consumable proprietary rubber dampeners begone!  Uses a tok tleu1-618-5w torque 
 
 Note: This project has been fitted and tested but is still in beta.
 
+![Faucetwo Torque Limiter](Pictures/faucetwo_torque_limiter.jpg)
+
 This mod requires:
 - 2x tok tleu1-618-5w
 - 2x Part1 (3D printed)
 - 2x Part2 (3D printed)
+
+Video Guide:  
+https://youtu.be/wjkP9TPzm_8?si=DwbVowPt-fkSv-2N
 
 Barebones guide:
 1. Remove magnetic bottom cover of your faucetwo
@@ -19,7 +24,6 @@ Barebones guide:
 6. Put the screws into Part2 and line it up on top of the boards and screw it in.
 7. Repeat with the second knob assembly.
 8. Put the cover back on.  You're done!
-
 
 ## Pick up a kit or individual torque limiters here:  
 https://www.speedylabs.us/product/faucetwo-torque-limiter-upgrade-kit/  
