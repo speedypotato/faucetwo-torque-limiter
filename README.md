@@ -11,9 +11,11 @@ This mod requires:
 - 2x tok tleu1-618-5w
 - 2x Part1 (3D printed)
 - 2x Part2 (3D printed)
+- 2x Part3 (3D printed, optional)
 
 Video Guide:  
-https://youtu.be/wjkP9TPzm_8?si=DwbVowPt-fkSv-2N
+New: https://youtu.be/agtuq-vSzC4?si=kTFLQlY_rWy64dil  
+Old(shows removal of rubber dampeners): https://youtu.be/wjkP9TPzm_8?si=DwbVowPt-fkSv-2N
 
 Barebones guide:
 1. Remove magnetic bottom cover of your faucetwo
@@ -21,10 +23,11 @@ Barebones guide:
 3. Reassemble the knob assembly without the dampener and plastic support pieces, but don't put on the spoked wheel yet.
 4. Line up the spoked wheel on the end of the shaft, then sandwich it with Part1.  Screw in the 2 M3 screws.
 5. Insert the torque limiter into Part1, lining up the tabs with the slots.  It should be a fairly tight press fit.  If your tabs aren't aligned, the torque limiter will be too tall.  You can pinch the torque limiter and rotate it while it's in Part1 to adjust.
-6. Unscrew the two screws holding down the two light sensors in place, leaving the middle screw alone.
-7. Put the screws into Part2 and line it up on top of the boards and screw it in.  Make sure to align the torque limiter slot with Part2.
-8. Repeat with the second knob assembly.
-9. Put the cover back on.  You're done!
+6. Unscrew the 3 screws holding the light sensor boards in place and pull out the light sensors.  Unscrew the 2 longer screws and remove the bracket.  Replace with Part3, remount with the 2 screws, and inser the boards into the slots.  Only screw in the middle screw, then proceed to the next step.
+7. Unscrew the two screws holding down the two light sensors in place, leaving the middle screw alone. (if you didn't install Part3)
+8. Put the screws into Part2 and line it up on top of the boards and screw it in.  Make sure to align the torque limiter slot with Part2.
+9. Repeat with the second knob assembly.
+10. Put the cover back on.  You're done!
 
 ## Pick up a kit or individual torque limiters here:  
 https://www.speedylabs.us/product/faucetwo-torque-limiter-upgrade-kit/  
